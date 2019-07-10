@@ -1,3 +1,6 @@
 [submodule "themes/docdock"]
 	path = themes/docdock
 	url = https://github.com/vjeantet/hugo-theme-docdock.git
+[submodule "BluespaceDev.github.io"]
+	path = BluespaceDev.github.io
+	url = git@github.com:BluespaceDev/BluespaceDev.github.io.git
